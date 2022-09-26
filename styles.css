@@ -4,6 +4,7 @@
   text-align: center;
 }
 
+
 .dice {
   text-align: center;
   display: inline-block;
@@ -20,6 +21,21 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+}
+
+h3 {
+  /* margin-top: 5%;  */
+  font-size: 2rem;
+  color: #EEEEEE;
+  font-family: 'Indie Flower', cursive;
+}
+
+.instructions {
+  margin: 2% auto 5%;
+  color: #EEEEEE;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.2rem;
+
 }
 
 p {
